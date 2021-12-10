@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "Menu": "Non-Veg Starters"
+  },
+  {
+    "id": 6,
+    "Menu": "Veg Starters"
+  },
+  {
+    "id": 11,
+    "Menu": "Non-Veg Biryani's"
+  },
+  {
+    "id": 17,
+    "Menu": "Veg Biryani's"
+  }
+]

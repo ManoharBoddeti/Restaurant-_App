@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.Navbar {
+  font-weight: bold;
+  color: azure;
+  background-color: rgb(11, 173, 160);
+  text-align: center;
+  margin: 0%;
+}
+.item {
+  color: black;
+  /* background-color: wheat; */
+}
+.menu {
+  background-color: wheat;
+  padding: 10px;
+  margin: 5px;
+}
+.img {
+  background-image: url("https://www.kindpng.com/picc/m/107-1074363_banner-img1-restaurant-bangla-food-png-transparent-png.png");
+  width: 600px;
+  height: 600px;
+}
+.navbar {
+  background-color: PaleTurquoise;
+  padding: 0px;
+}

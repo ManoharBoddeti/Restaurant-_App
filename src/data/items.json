@@ -1,0 +1,82 @@
+[
+  {
+    "id": 2,
+    "ItemName": "Chilli Chicken",
+    "menu": 1
+  },
+  {
+    "id": 3,
+    "ItemName": "Apollo Fish",
+    "menu": 1
+  },
+  {
+    "id": 4,
+    "ItemName": "Chicken LollyPop",
+    "menu": 1
+  },
+  {
+    "id": 5,
+    "ItemName": "Kabab Chicken",
+    "menu": 1
+  },
+  {
+    "id": 7,
+    "ItemName": "Potato LollyPop",
+    "menu": 6
+  },
+  {
+    "id": 8,
+    "ItemName": "Crispy Corn",
+    "menu": 6
+  },
+  {
+    "id": 9,
+    "ItemName": "Crispy BabyCorn",
+    "menu": 6
+  },
+  {
+    "id": 10,
+    "ItemName": "PopCorn",
+    "menu": 6
+  },
+  {
+    "id": 12,
+    "ItemName": "Chicken Dum Biryani",
+    "menu": 11
+  },
+  {
+    "id": 13,
+    "ItemName": "Chicken Mogalai Biryani",
+    "menu": 11
+  },
+  {
+    "id": 14,
+    "ItemName": "Chicken FryPeace Biryani",
+    "menu": 11
+  },
+  {
+    "id": 15,
+    "ItemName": "Prawns Biryani",
+    "menu": 11
+  },
+  {
+    "id": 16,
+    "ItemName": "Fish Biryani",
+    "menu": 11
+  },
+  {
+    "id": 18,
+    "ItemName": "veg dum biryani",
+    "menu": 17
+  },
+  {
+    "id": 19,
+    "ItemName": "veg Fried Rice ",
+    "menu": 17
+  },
+  {
+    "id": 20,
+    "ItemName": "Panner Biryani",
+    "menu": 17
+  }
+]
