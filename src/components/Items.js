@@ -14,9 +14,8 @@ export default class Items extends Component {
             {filterList.map((item, id) => (
               <div
                 id={id}
-                class="p-2  py-3 px-2 m-1 rounded"
-                style={{ backgroundColor: "skyBlue" }}
-                // onClick={this.onItem(id)}
+                className="p-2  py-3 px-2 m-1  item-click"
+                onClick={() => this.props.onSelectItem(item)}
               >
                 {item.ItemName}
               </div>
